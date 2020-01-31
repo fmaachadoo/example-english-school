@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/example-english-school/static/css/main.7a4a6115.chunk.css",
+    "main.js": "/example-english-school/static/js/main.3bda6898.chunk.js",
+    "main.js.map": "/example-english-school/static/js/main.3bda6898.chunk.js.map",
+    "runtime-main.js": "/example-english-school/static/js/runtime-main.ef16322d.js",
+    "runtime-main.js.map": "/example-english-school/static/js/runtime-main.ef16322d.js.map",
+    "static/css/2.666e6db2.chunk.css": "/example-english-school/static/css/2.666e6db2.chunk.css",
+    "static/js/2.25ad07fe.chunk.js": "/example-english-school/static/js/2.25ad07fe.chunk.js",
+    "static/js/2.25ad07fe.chunk.js.map": "/example-english-school/static/js/2.25ad07fe.chunk.js.map",
+    "index.html": "/example-english-school/index.html",
+    "precache-manifest.c85b3a6fcc529c7dfd6e5d17a7b07d4e.js": "/example-english-school/precache-manifest.c85b3a6fcc529c7dfd6e5d17a7b07d4e.js",
+    "service-worker.js": "/example-english-school/service-worker.js",
+    "static/css/2.666e6db2.chunk.css.map": "/example-english-school/static/css/2.666e6db2.chunk.css.map",
+    "static/css/main.7a4a6115.chunk.css.map": "/example-english-school/static/css/main.7a4a6115.chunk.css.map",
+    "static/js/2.25ad07fe.chunk.js.LICENSE": "/example-english-school/static/js/2.25ad07fe.chunk.js.LICENSE",
+    "static/media/home_mob.jpg": "/example-english-school/static/media/home_mob.1479af78.jpg",
+    "static/media/img1.jpg": "/example-english-school/static/media/img1.89832d24.jpg",
+    "static/media/img2.jpg": "/example-english-school/static/media/img2.87a47613.jpg",
+    "static/media/img3.jpg": "/example-english-school/static/media/img3.61ec2a9b.jpg",
+    "static/media/info2.jpg": "/example-english-school/static/media/info2.a8214510.jpg",
+    "static/media/info3.jpg": "/example-english-school/static/media/info3.0943ecec.jpg",
+    "static/media/info4.jpg": "/example-english-school/static/media/info4.a4087b44.jpg",
+    "static/media/index.css": "/example-english-school/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef16322d.js",
+    "static/css/2.666e6db2.chunk.css",
+    "static/js/2.25ad07fe.chunk.js",
+    "static/css/main.7a4a6115.chunk.css",
+    "static/js/main.3bda6898.chunk.js"
+  ]
+}
